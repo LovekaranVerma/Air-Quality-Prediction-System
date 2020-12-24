@@ -1,0 +1,3 @@
+# Air-Quality-Prediction-System
+India has made it to the headlines when it comes to air pollution. The growing air pollution in the country has been one of the major concerns for both the government and the citizens.  Many actions have been taken by the government to control polution, but still the problem stands.  Air pollution is a major problem and should not be ignored. Most of the population is not even aware of the colossal harm caused by the air they breathe everyday.  Being a data science and analysis enthusiast I decided to analyze the Indian air quality data to find something meaningful and to make people aware by the facts and figures.
+hello world
